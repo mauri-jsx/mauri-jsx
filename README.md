@@ -5,7 +5,7 @@
   <p style="color: #6b7280; font-size: 18px;">Desarrollador Full Stack | JavaScript | HTML | TailwindCSS</p>
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    ![Mi Foto de Perfil](https://i.imgur.com/AOzvc9x.jpg)
+    <img src="https://i.imgur.com/AOzvc9x.jpg" alt="Mi Foto de Perfil" style="border-radius: 50%; width: 150px; height: 150px;">
   </div>
   
   <p style="color: #374151; margin-top: 20px; font-size: 16px;">Actualmente estoy trabajando en proyectos web que incluyen el uso de JavaScript, HTML y TailwindCSS para construir interfaces atractivas y funcionales.</p>
