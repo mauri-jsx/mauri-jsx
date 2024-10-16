@@ -5,7 +5,7 @@
   <p style="color: #6b7280; font-size: 18px;">Desarrollador Full Stack | JavaScript | HTML | TailwindCSS</p>
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://via.placeholder.com/150" alt="profile-pic" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="URL_DE_TU_IMAGEN_DE_PERFIL" alt="profile-pic" style="border-radius: 50%; width: 150px; height: 150px;">
   </div>
   
   <p style="color: #374151; margin-top: 20px; font-size: 16px;">Actualmente estoy trabajando en proyectos web que incluyen el uso de JavaScript, HTML y TailwindCSS para construir interfaces atractivas y funcionales.</p>
@@ -18,3 +18,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
   </div>
 </div>
+
