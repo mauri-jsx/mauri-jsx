@@ -5,7 +5,9 @@
   <p style="color: #6b7280; font-size: 18px;">Desarrollador Full Stack | JavaScript | HTML | TailwindCSS</p>
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://i.imgur.com/AOzvc9x.jpg" alt="Mi Foto de Perfil" style="border-radius: 50%; width: 200px; height: 200px;">
+    <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+      <img src="https://i.imgur.com/AOzvc9x.jpg" alt="Mi Foto de Perfil" style="width: 100%; height: auto;">
+    </div>
   </div>
   
   <p style="color: #374151; margin-top: 20px; font-size: 16px;">Actualmente estoy trabajando en proyectos web que incluyen el uso de JavaScript, HTML y TailwindCSS para construir interfaces atractivas y funcionales.</p>
@@ -18,4 +20,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
   </div>
 </div>
-
