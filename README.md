@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Soy Mauricio Heredia
+
 <div align="center" style="background-color: #f0f4f8; padding: 20px; border-radius: 10px;">
   <h1 style="color: #4f46e5;">Mauricio Heredia</h1>
   <p style="color: #6b7280; font-size: 18px;">Desarrollador Full Stack | JavaScript | HTML | TailwindCSS</p>
@@ -11,8 +12,9 @@
   
   <h2 style="color: #4f46e5; margin-top: 30px;">Tecnologías que uso:</h2>
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-    <img src="https://via.placeholder.com/50x50?text=JS" alt="JavaScript">
-    <img src="https://via.placeholder.com/50x50?text=HTML" alt="HTML">
-    <img src="https://via.placeholder.com/50x50?text=Tailwind" alt="TailwindCSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
   </div>
 </div>
